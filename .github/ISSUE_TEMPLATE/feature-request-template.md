@@ -6,10 +6,4 @@ labels: 'Type: Feature/Function'
 assignees: ''
 ---
 
-## 추가/개선 필요 요소
-
-## 추가/개선 필요 이유
-
-## 상세 요구 사항
-
-## 스크린샷
+## Feature Description
